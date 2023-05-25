@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 
-!pip install plotly-express
+pip install plotly-express
 import plotly.express as px
 
 
