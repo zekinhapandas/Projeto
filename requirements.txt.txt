@@ -1,0 +1,3 @@
+pip install import pandas 
+pip install import streamlit 
+pip install import plotly.express 
