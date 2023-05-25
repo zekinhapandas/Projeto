@@ -1,6 +1,10 @@
 import pandas as pd
 import streamlit as st
+
+!pip install plotly-express
 import plotly.express as px
+
+
 ###### titulo ######
 
 ############# configuração api #######################
